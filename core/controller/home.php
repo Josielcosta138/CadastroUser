@@ -23,13 +23,13 @@ if (file_exists($view)){
 	 //preg_match - Executa uma correspondência de expressão regular
 	if (preg_match_all('/{{[a-z_]+}}/i',$conteudo, $matches)){
 		foreach ($matches as $match) {
-			foreach ($$match as $m) {
-				foreach ($matches as $match) {
-					foreach ($match as $m) {
+			foreach ($match as $m) {
 						$padrao = str_replace(array("{{(", ")}}"), "", $m);
 						echo str_replace($m, "{$padrao}", $conteudo);
 					}			
 			}	}
 	   }	
-	}
-}
+	
+
+
+
