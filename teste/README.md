@@ -20,11 +20,7 @@
 ## 📋 Sobre
 
 
-O projeto **Tabela de Jogos** é uma tabela de marcação de jogos onde **Maria** que é jogadora ira marcar suas pontuações na tabela.
-
-A cada jogo ela ira anotar o **Placar**, **Mínimo da Temporada** e **Máximo da Temporada**.
-
-Também será anotado  quantas vezes foi quebrado o **Recorde Mínimo** e o **Recorde Máximo**.
+O projeto em Adamento ......
 
 
 
