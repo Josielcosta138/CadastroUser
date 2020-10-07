@@ -30,8 +30,10 @@ O projeto em Adamento ......
 ## 🛠 Tecnologias utilizadas
 
 
-- IDE Visual Studio Code
-- Java
+- Visual Studio Code
+- PHP
+- HTML
+- CSS
 - Git
 - GitHub
 #
@@ -44,11 +46,7 @@ $ git clone https://github.com/Josielcosta138/CadastroUser
 # Entrar no diretório
 $ cd: CadastroUser
 $ src 
-$ 
 
-# Para executar, use uma IDE de seu gosto
-$ De preferencia Visual Studio Code
-$ O programa será executao no próprio console da IDE
 
 # Iniciar Projeto
 $  start
@@ -61,17 +59,15 @@ $  start
 
 #### 📌 Execuntando Tabela
 
----
-#### 📌 Mostrando Tabela
 
-
----
-#### 📌 Possíveis erros
-
+<h1 align="center">
+<img src="https://ik.imagekit.io/josiccc/Captura_de_Tela__118__yiLppaIL4.png"> </h1>
 
 <h3 >
 
 ---
-
+<h1 align="center">
+<img src="https://ik.imagekit.io/josiccc/Captura_de_Tela__119__SBaToD7scA.png"> </h1>
+---
 #
 ### 🚀 Desenvolvido por Josiel Costa Martins.
